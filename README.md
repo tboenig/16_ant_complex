@@ -1,7 +1,7 @@
 <div>
    <h1 id="title">16_ant_complex</h1>
    <p id="paragraph">Ground Truth with a collection of documents with the following characteristics:
-Font: antiqua, marginal notes [both printed and hand written]</p>
+font antiqua, marginal notes [both printed and hand written]</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
