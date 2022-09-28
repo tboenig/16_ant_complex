@@ -6,7 +6,7 @@
       <dd>16_ant_complex</dd>
       <dt>Description:</dt>
       <dd>Ground Truth with a collection of documents with the following characteristics:
-Font: antiqua, marginal notes [both printed and hand written]</dd>
+font antiqua, marginal notes [both printed and hand written]</dd>
       <dt>Language:</dt>
       <dd>lat, deu</dd>
       <dt>Format:</dt>
@@ -37,7 +37,7 @@ Font: antiqua, marginal notes [both printed and hand written]</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v3/bagitDump-v3.zip">Current version download: bagitDump-v3.zip</a>
+         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v4/bagitDump-v4.zip">Current version download: bagitDump-v4.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_ant_complex/releases">Version archive</a>

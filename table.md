@@ -17,7 +17,7 @@
       <dd>16_ant_complex</dd>
       <dt>Description:</dt>
       <dd>Ground Truth with a collection of documents with the following characteristics:
-Font: antiqua, marginal notes [both printed and hand written]</dd>
+font antiqua, marginal notes [both printed and hand written]</dd>
       <dt>Language:</dt>
       <dd>lat, deu</dd>
       <dt>Format:</dt>
