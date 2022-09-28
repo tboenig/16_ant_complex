@@ -32,7 +32,7 @@ jobs:
 
     - name: install labeling
       run: |
-        wget https://raw.githubusercontent.com/tboenig/gt-guidelines/master/de/labeling/OCR-D_GT_labeling_schema_xsd_Element_gt_gt.dita
+        git clone https://github.com/tboenig/gt-guidelines.git
         ls -l
 
      
