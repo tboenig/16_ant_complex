@@ -1,7 +1,7 @@
 <div>
    <h1 id="title">16_ant_complex</h1>
    <p id="paragraph">Ground Truth with a collection of documents with the following characteristics:
-Font: blackletter, marginal notes [both printed and hand written]</p>
+Font: antiqua, marginal notes [both printed and hand written]</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
@@ -28,12 +28,16 @@ Font: blackletter, marginal notes [both printed and hand written]</p>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>94</td>
+            <td>3</td>
+            <td>22</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>
@@ -62,7 +66,27 @@ Font: blackletter, marginal notes [both printed and hand written]</p>
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>alberti_pictura_1540</td>
+                  <td>22</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>94</td>
+                  <td>3</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
