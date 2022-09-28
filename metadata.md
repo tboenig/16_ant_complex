@@ -47,7 +47,7 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v21/bagitDump-v21.zip">Current version download: bagitDump-v21.zip</a>
+         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v22/bagitDump-v22.zip">Current version download: bagitDump-v22.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_ant_complex/releases">Version archive</a>
