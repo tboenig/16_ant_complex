@@ -6,7 +6,7 @@
       <dd>16_ant_complex</dd>
       <dt>Description:</dt>
       <dd>Ground Truth with a collection of documents with the following characteristics:
-Font: blackletter, marginal notes [both printed and hand written]</dd>
+Font: antiqua, marginal notes [both printed and hand written]</dd>
       <dt>Language:</dt>
       <dd>lat, deu</dd>
       <dt>Format:</dt>
@@ -37,7 +37,7 @@ Font: blackletter, marginal notes [both printed and hand written]</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v2/bagitDump-v2.zip">Current version download: bagitDump-v2.zip</a>
+         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v3/bagitDump-v3.zip">Current version download: bagitDump-v3.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_ant_complex/releases">Version archive</a>
@@ -56,6 +56,16 @@ Font: blackletter, marginal notes [both printed and hand written]</dd>
                   <dd>TextLine</dd>
                   <dt>Page</dt>
                   <dd>Page</dd>
+                  <dt>TxtRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
+                        target="_blank">TextRegion</a>
+                  </dd>
+                  <dt>NoiseRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
+                        target="_blank">NoiseRegion</a>
+                  </dd>
                </dl>
             </details>
          </td>
@@ -67,6 +77,12 @@ Font: blackletter, marginal notes [both printed and hand written]</dd>
                <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
                   <i>Page</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
+                  <i>TxtRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
+                  <i>NoiseRegion</i>
+               </button>
             </div>
          </td>
       </tr>
@@ -76,12 +92,16 @@ Font: blackletter, marginal notes [both printed and hand written]</dd>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>94</td>
+            <td>3</td>
+            <td>22</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>
