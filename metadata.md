@@ -41,37 +41,143 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                see: <a href="=https://ocr-d.de/en/gt-guidelines/labeling/OCR-D_GT_labeling_schema_xsd_Element_gt_gt.html#gt_gt_state_prop">Labelings</a>.</p>
    <details>
       <summary>granularity/physical/document-related/word</summary>
-      <p>Word or partial word, if separated by line break, for example</p>
+      <p>
+         <b>Description:</b>Description: Word or partial word, if separated by line break, for example</p>
       <summary>granularity/physical/document-related/word</summary>
-      <p>Word or partial word, if separated by line break, for example</p>
+      <p>
+         <b>Description:</b>Description: Word or partial word, if separated by line break, for example</p>
       <summary>granularity/physical/document-related/text-line</summary>
       <p>
+         <b>Description:</b>Description: 
                         Description coming soon.
                     </p>
       <summary>granularity/physical/document-related/text-line</summary>
       <p>
+         <b>Description:</b>Description: 
                         Description coming soon.
                     </p>
       <summary>granularity/physical/document-related/region</summary>
-      <p>Region, zone, block</p>
+      <p>
+         <b>Description:</b>Description: Region, zone, block</p>
       <summary>granularity/physical/document-related/region</summary>
-      <p>Region, zone, block</p>
+      <p>
+         <b>Description:</b>Description: Region, zone, block</p>
       <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-      <p>More than one font size used</p>
+      <p>
+         <b>Description:</b>Description: More than one font size used</p>
       <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-      <p>More than one font size used</p>
+      <p>
+         <b>Description:</b>Description: More than one font size used</p>
       <summary>condition/production-related/document-faults/ink-from-facing</summary>
-      <p>Ink from facing page was transferred to this page</p>
+      <p>
+         <b>Description:</b>Description: Ink from facing page was transferred to this page</p>
       <summary>condition/production-related/document-faults/ink-from-facing</summary>
-      <p>Ink from facing page was transferred to this page</p>
+      <p>
+         <b>Description:</b>Description: Ink from facing page was transferred to this page</p>
       <summary>condition/wear/additions/informative/annotations</summary>
-      <p>Annotations regarding the content</p>
+      <p>
+         <b>Description:</b>Description: Annotations regarding the content</p>
       <summary>condition/wear/additions/informative/annotations</summary>
-      <p>Annotations regarding the content</p>
+      <p>
+         <b>Description:</b>Description: Annotations regarding the content</p>
       <summary>condition/wear/medium-damage/stains</summary>
-      <p>Noticeable stains on medium</p>
+      <p>
+         <b>Description:</b>Description: Noticeable stains on medium</p>
       <summary>condition/wear/medium-damage/stains</summary>
-      <p>Noticeable stains on medium</p>
+      <p>
+         <b>Description:</b>Description: Noticeable stains on medium</p>
+      <summary>granularity/physical/document-related/word</summary>
+      <p>
+         <b>Description:</b>Description: Word or partial word, if separated by line break, for example</p>
+      <summary>granularity/physical/document-related/word</summary>
+      <p>
+         <b>Description:</b>Description: Word or partial word, if separated by line break, for example</p>
+      <summary>granularity/physical/document-related/text-line</summary>
+      <p>
+         <b>Description:</b>Description: 
+                        Description coming soon.
+                    </p>
+      <summary>granularity/physical/document-related/text-line</summary>
+      <p>
+         <b>Description:</b>Description: 
+                        Description coming soon.
+                    </p>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <b>Description:</b>Description: Region, zone, block</p>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <b>Description:</b>Description: Region, zone, block</p>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+      <p>
+         <b>Description:</b>Description: More than one font size used</p>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+      <p>
+         <b>Description:</b>Description: More than one font size used</p>
+      <summary>condition/production-related/document-faults/ink-from-facing</summary>
+      <p>
+         <b>Description:</b>Description: Ink from facing page was transferred to this page</p>
+      <summary>condition/production-related/document-faults/ink-from-facing</summary>
+      <p>
+         <b>Description:</b>Description: Ink from facing page was transferred to this page</p>
+      <summary>condition/wear/additions/informative/annotations</summary>
+      <p>
+         <b>Description:</b>Description: Annotations regarding the content</p>
+      <summary>condition/wear/additions/informative/annotations</summary>
+      <p>
+         <b>Description:</b>Description: Annotations regarding the content</p>
+      <summary>condition/wear/medium-damage/stains</summary>
+      <p>
+         <b>Description:</b>Description: Noticeable stains on medium</p>
+      <summary>condition/wear/medium-damage/stains</summary>
+      <p>
+         <b>Description:</b>Description: Noticeable stains on medium</p>
+      <summary>granularity/physical/document-related/word</summary>
+      <p>
+         <b>Description:</b>Description: Word or partial word, if separated by line break, for example</p>
+      <summary>granularity/physical/document-related/word</summary>
+      <p>
+         <b>Description:</b>Description: Word or partial word, if separated by line break, for example</p>
+      <summary>granularity/physical/document-related/text-line</summary>
+      <p>
+         <b>Description:</b>Description: 
+                        Description coming soon.
+                    </p>
+      <summary>granularity/physical/document-related/text-line</summary>
+      <p>
+         <b>Description:</b>Description: 
+                        Description coming soon.
+                    </p>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <b>Description:</b>Description: Region, zone, block</p>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <b>Description:</b>Description: Region, zone, block</p>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+      <p>
+         <b>Description:</b>Description: More than one font size used</p>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+      <p>
+         <b>Description:</b>Description: More than one font size used</p>
+      <summary>condition/production-related/document-faults/ink-from-facing</summary>
+      <p>
+         <b>Description:</b>Description: Ink from facing page was transferred to this page</p>
+      <summary>condition/production-related/document-faults/ink-from-facing</summary>
+      <p>
+         <b>Description:</b>Description: Ink from facing page was transferred to this page</p>
+      <summary>condition/wear/additions/informative/annotations</summary>
+      <p>
+         <b>Description:</b>Description: Annotations regarding the content</p>
+      <summary>condition/wear/additions/informative/annotations</summary>
+      <p>
+         <b>Description:</b>Description: Annotations regarding the content</p>
+      <summary>condition/wear/medium-damage/stains</summary>
+      <p>
+         <b>Description:</b>Description: Noticeable stains on medium</p>
+      <summary>condition/wear/medium-damage/stains</summary>
+      <p>
+         <b>Description:</b>Description: Noticeable stains on medium</p>
    </details>
 </div>
 <div class="metadata">
@@ -81,7 +187,7 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v11/bagitDump-v11.zip">Current version download: bagitDump-v11.zip</a>
+         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v12/bagitDump-v12.zip">Current version download: bagitDump-v12.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_ant_complex/releases">Version archive</a>
