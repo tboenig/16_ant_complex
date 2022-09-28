@@ -39,15 +39,40 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
    <p>For a description and explanation of the labeling metadata, 
                see: <a href="=https://ocr-d.de/en/gt-guidelines/labeling/OCR-D_GT_labeling_schema_xsd_Element_gt_gt.html#gt_gt_state_prop">Labelings</a>.</p>
-   <ul>
-      <li>granularity/physical/document-related/word</li>
-      <li>granularity/physical/document-related/text-line</li>
-      <li>granularity/physical/document-related/region</li>
-      <li>data-attributes/document-related/visual/text/font/multi-font/font-sizes</li>
-      <li>condition/production-related/document-faults/ink-from-facing</li>
-      <li>condition/wear/additions/informative/annotations</li>
-      <li>condition/wear/medium-damage/stains</li>
-   </ul>
+   <details>
+      <summary>granularity/physical/document-related/word</summary>
+      <p>Word or partial word, if separated by line break, for example</p>
+      <summary>granularity/physical/document-related/word</summary>
+      <p>Word or partial word, if separated by line break, for example</p>
+      <summary>granularity/physical/document-related/text-line</summary>
+      <p>
+                        Description coming soon.
+                    </p>
+      <summary>granularity/physical/document-related/text-line</summary>
+      <p>
+                        Description coming soon.
+                    </p>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>Region, zone, block</p>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>Region, zone, block</p>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+      <p>More than one font size used</p>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+      <p>More than one font size used</p>
+      <summary>condition/production-related/document-faults/ink-from-facing</summary>
+      <p>Ink from facing page was transferred to this page</p>
+      <summary>condition/production-related/document-faults/ink-from-facing</summary>
+      <p>Ink from facing page was transferred to this page</p>
+      <summary>condition/wear/additions/informative/annotations</summary>
+      <p>Annotations regarding the content</p>
+      <summary>condition/wear/additions/informative/annotations</summary>
+      <p>Annotations regarding the content</p>
+      <summary>condition/wear/medium-damage/stains</summary>
+      <p>Noticeable stains on medium</p>
+      <summary>condition/wear/medium-damage/stains</summary>
+      <p>Noticeable stains on medium</p>
+   </details>
 </div>
 <div class="metadata">
    <h2>Download</h2>
@@ -56,7 +81,7 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v6/bagitDump-v6.zip">Current version download: bagitDump-v6.zip</a>
+         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v11/bagitDump-v11.zip">Current version download: bagitDump-v11.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_ant_complex/releases">Version archive</a>
