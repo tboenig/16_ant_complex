@@ -39,28 +39,6 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
    <p>Here you will find a description and explanation of the labeling metadata.</p>
    <details>
-      <summary>granularity/physical/document-related/word</summary>
-      <p>
-         <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
-   </details>
-   <details>
-      <summary>granularity/physical/document-related/text-line</summary>
-      <p>
-         <strong>Description: </strong>
-                        Description coming soon.
-                    </p>
-   </details>
-   <details>
-      <summary>granularity/physical/document-related/region</summary>
-      <p>
-         <strong>Description: </strong>Region, zone, block</p>
-   </details>
-   <details>
-      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-      <p>
-         <strong>Description: </strong>More than one font size used</p>
-   </details>
-   <details>
       <summary>condition/production-related/document-faults/ink-from-facing</summary>
       <p>
          <strong>Description: </strong>Ink from facing page was transferred to this page</p>
@@ -75,6 +53,28 @@ font antiqua, marginal notes [both printed and hand written]</dd>
       <p>
          <strong>Description: </strong>Noticeable stains on medium</p>
    </details>
+   <details>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+      <p>
+         <strong>Description: </strong>More than one font size used</p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <strong>Description: </strong>Region, zone, block</p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/text-line</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/word</summary>
+      <p>
+         <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
+   </details>
 </div>
 <div class="metadata">
    <h2>Download</h2>
@@ -83,7 +83,7 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v38/bagitDump-v38.zip">Current version download: bagitDump-v38.zip</a>
+         <a href="https://github.com/tboenig/16_ant_complex/releases/download/v39/bagitDump-v39.zip">Current version download: bagitDump-v39.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_ant_complex/releases">Version archive</a>
