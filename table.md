@@ -240,6 +240,27 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         </thead>
                         <tr>
                            <td>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/main/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0008.xml">alberti_pictura_1540_0008.xml</a>
+                           </td>
+                           <td>31</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <a href="https://github.com/tboenig/16_ant_complex/blob/main/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0009.xml">alberti_pictura_1540_0009.xml</a>
                            </td>
                            <td>35</td>
@@ -277,27 +298,6 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_ant_complex/blob/main/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0008.xml">alberti_pictura_1540_0008.xml</a>
-                           </td>
-                           <td>31</td>
-                           <td>1</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                         </tr>

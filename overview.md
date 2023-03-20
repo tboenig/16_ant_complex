@@ -134,6 +134,25 @@
    </thead>
    <tbody>
       <tr>
+         <th>alberti_pictura_1540_0008.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>31</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>alberti_pictura_1540_0009.xml</th>
          <td>9</td>
          <td>0</td>
@@ -169,25 +188,6 @@
          <td>0</td>
          <td>0</td>
          <td>28</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>alberti_pictura_1540_0008.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>31</td>
          <td>1</td>
       </tr>
    </tbody>
