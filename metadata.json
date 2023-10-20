@@ -46,10 +46,10 @@
   "format": "Page-XML",
   "transcription-guidelines": "OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/",
   "volume": {
-    "TxtRegion": "22",
-    "NoiseRegion": "1",
-    "TextLine": "94",
-    "Page": "3"
+    "TxtRegion": "44",
+    "NoiseRegion": "2",
+    "TextLine": "188",
+    "Page": "6"
   },
   "labelling": [
     "granularity/physical/document-related/word",

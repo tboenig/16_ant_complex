@@ -240,7 +240,7 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.5/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0008.xml">alberti_pictura_1540_0008.xml</a>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.6/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0008.xml">alberti_pictura_1540_0008.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -261,7 +261,7 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.5/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0009.xml">alberti_pictura_1540_0009.xml</a>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.6/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0009.xml">alberti_pictura_1540_0009.xml</a>
                            </td>
                            <td>35</td>
                            <td>1</td>
@@ -282,7 +282,119 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.5/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0007.xml">alberti_pictura_1540_0007.xml</a>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.6/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0007.xml">alberti_pictura_1540_0007.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>alberti_pictura_1541</th>
+               <td>94</td>
+               <td>3</td>
+               <td>22</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>1</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.6/data/alberti_pictura_1541/GT-PAGE/alberti_pictura_1540_0008.xml">alberti_pictura_1540_0008.xml</a>
+                           </td>
+                           <td>31</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.6/data/alberti_pictura_1541/GT-PAGE/alberti_pictura_1540_0009.xml">alberti_pictura_1540_0009.xml</a>
+                           </td>
+                           <td>35</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.6/data/alberti_pictura_1541/GT-PAGE/alberti_pictura_1540_0007.xml">alberti_pictura_1540_0007.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
