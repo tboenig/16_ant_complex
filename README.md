@@ -34,10 +34,10 @@ font antiqua, marginal notes [both printed and hand written]</p>
       </thead>
       <tbody>
          <tr>
-            <td>94</td>
-            <td>3</td>
-            <td>22</td>
-            <td>1</td>
+            <td>188</td>
+            <td>6</td>
+            <td>44</td>
+            <td>2</td>
          </tr>
       </tbody>
    </table>
@@ -69,6 +69,25 @@ font antiqua, marginal notes [both printed and hand written]</p>
             <tbody>
                <tr>
                   <td>alberti_pictura_1540</td>
+                  <td>22</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>94</td>
+                  <td>3</td>
+               </tr>
+               <tr>
+                  <td>alberti_pictura_1541</td>
                   <td>22</td>
                   <td/>
                   <td/>
