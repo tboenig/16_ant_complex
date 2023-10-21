@@ -240,7 +240,7 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.8/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0008.xml">alberti_pictura_1540_0008.xml</a>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.9/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0008.xml">alberti_pictura_1540_0008.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -261,7 +261,7 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.8/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0009.xml">alberti_pictura_1540_0009.xml</a>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.9/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0009.xml">alberti_pictura_1540_0009.xml</a>
                            </td>
                            <td>35</td>
                            <td>1</td>
@@ -282,7 +282,7 @@ font antiqua, marginal notes [both printed and hand written]</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.8/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0007.xml">alberti_pictura_1540_0007.xml</a>
+                              <a href="https://github.com/tboenig/16_ant_complex/blob/v1.0.9/data/alberti_pictura_1540/GT-PAGE/alberti_pictura_1540_0007.xml">alberti_pictura_1540_0007.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
